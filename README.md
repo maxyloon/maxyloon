@@ -8,11 +8,12 @@
  </pre>
 
 * 📇 Contact & Social Media: 
-[MaxAndersson.net](https://www.maxandersson.net)
+[maxyloon.dev](https://maxyloon.dev)
 
 * Blogs & Writing
   * [Medium](https://medium.com/@max.andersson)
   * [Neo4j Blog](https://neo4j.com/blog/contributor/max-andersson/)
+  * [Personal Blog](https://maxyloon.dev/blog)
 
 ---
 Technologies & Tools
